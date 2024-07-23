@@ -21,5 +21,5 @@ function updateText() {
   if (careerIndex === careers.length) {
     careerIndex = 0
   }
-  setTimeout(updateText, 400)
+  setTimeout(updateText, 100)
 }
