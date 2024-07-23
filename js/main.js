@@ -1,5 +1,5 @@
 const containerEl = document.querySelector(".container")
-const careers = ["YouTube Influencer", "Front-End Web Developer", "Multi-Talented Freelancer", "Hot Instructor"]
+const careers = ["YouTuber", "Web Developer", "Freelancer", "Instructor"]
 
 let careerIndex = 0
 
